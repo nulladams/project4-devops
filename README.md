@@ -14,14 +14,14 @@ To run the project just follow the three scripts files:
 
 ## Project files
 Project files can be found inside the src directory:
-app.py - app source code
-Dockerfile - create docker container  for the project
-make_prediction.sh* - script to test the app
-Makefile - file to simplify app and depencies installation
-output_txt_files/ - folder with files regarding app outputs
-requirements.txt - app dependecies
-run_docker.sh* - script to create and run the docker container
-run_kubernetes.sh* - script to create and run pods with the app container
-upload_docker.sh* - script to upload the docker image to the cloud
+- app.py - app source code
+- Dockerfile - create docker container  for the project
+- make_prediction.sh* - script to test the app
+- Makefile - file to simplify app and depencies installation
+- output_txt_files/ - folder with files regarding app outputs
+- requirements.txt - app dependecies
+- run_docker.sh* - script to create and run the docker container
+- run_kubernetes.sh* - script to create and run pods with the app container
+- upload_docker.sh* - script to upload the docker image to the cloud
 
 

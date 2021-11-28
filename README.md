@@ -10,7 +10,7 @@ To run the project just follow the three scripts files:
 1) run_docker.sh
 2) upload_docker.sh
 3) run_kubernetes.sh
-4 )make_prediction.sh*
+4) make_prediction.sh*
 
 ## Project files
 Project files can be found inside the src directory:
